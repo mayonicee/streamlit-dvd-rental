@@ -1,0 +1,22 @@
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs/Editors
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Models & Large Data Files (optional, but good practice to keep repo clean)
+# *.pkl
+# *.csv
