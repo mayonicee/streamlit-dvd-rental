@@ -37,7 +37,7 @@ Dashboard ini dibagi menjadi beberapa modul analisis utama yang dapat diakses me
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **Bahasa Pemrograman**: Python 3.x
 - **Framework Dashboard**: Streamlit
@@ -99,7 +99,7 @@ streamlitproject/
 
 ---
 
-## ⚙️ Cara Instalasi & Menjalankan Project
+## Cara Instalasi & Menjalankan Project
 
 ### 1. Clone Repositori
 ```bash
