@@ -1,10 +1,10 @@
-# DVD Rental Analytics Dashboard 📊
+# DVD Rental Analytics Dashboard 
 
 Dashboard analitik interaktif berbasis **Streamlit** untuk menganalisis data transaksi penyewaan DVD. Project ini mengintegrasikan kueri basis data PostgreSQL, analisis performa bisnis, visualisasi data interaktif, dan algoritma *Machine Learning* untuk segmentasi pelanggan.
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 Dashboard ini dibagi menjadi beberapa modul analisis utama yang dapat diakses melalui menu navigasi samping:
 
@@ -49,7 +49,7 @@ Dashboard ini dibagi menjadi beberapa modul analisis utama yang dapat diakses me
 
 ---
 
-## 📁 Struktur Folder
+## Struktur Folder
 
 ```directory
 streamlitproject/
